@@ -13,18 +13,45 @@ body {
 /* Navbar styles */
 .navbar {
   /* Add styles for the navbar */
+<<<<<<< HEAD
+=======
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: #1A1A1A;
+  color: #00FF9D;
+  padding: 20px 60px;
+>>>>>>> d94d9e3 (manas final design)
 }
 
 .logo {
   /* Add styles for the logo */
+<<<<<<< HEAD
+=======
+  display: flex;
+  align-items: center;
+
+>>>>>>> d94d9e3 (manas final design)
 }
 
 .logo img {
   /* Add styles for the logo image */
+<<<<<<< HEAD
+=======
+  border-radius: 50px;
+  border: 2px solid #00FF9D;
+  margin-right: 10px;
+>>>>>>> d94d9e3 (manas final design)
 }
 
 .menu a {
   /* Add styles for the navigation links */
+<<<<<<< HEAD
+=======
+  text-decoration: none;
+  color: white;
+  padding: 10px;
+>>>>>>> d94d9e3 (manas final design)
 }
 
 .menu a:hover {
@@ -34,26 +61,72 @@ body {
 /* Hero section styles */
 .hero {
   /* Add styles for the hero section */
+<<<<<<< HEAD
+=======
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: aqua;
+  background-image: url(./assets/chaicohort.png);
+  background-repeat: no-repeat;
+  object-fit: cover;
+  background-size: cover;
+  background-position: center;
+  background-color: rgba(0, 0, 0, 0.581);
+  background-blend-mode: darken;
+
+>>>>>>> d94d9e3 (manas final design)
 }
 
 .hero-content {
   /* Add styles for the hero content container */
+<<<<<<< HEAD
+=======
+  padding: 60px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: #00FF9D;
+>>>>>>> d94d9e3 (manas final design)
 }
 
 .hero-content h1 {
   /* Add styles for the hero heading */
+<<<<<<< HEAD
+=======
+  margin: 20px;
+>>>>>>> d94d9e3 (manas final design)
 }
 
 .hero-content p {
   /* Add styles for the hero paragraph */
+<<<<<<< HEAD
+=======
+  color: #ffff;
+>>>>>>> d94d9e3 (manas final design)
 }
 
 .hero-content img {
   /* Add styles for the image in the hero section */
+<<<<<<< HEAD
+=======
+  border: 2px solid #00FF9D;
+  border-radius: 10px;
+  margin: 20px;
+>>>>>>> d94d9e3 (manas final design)
 }
 
 .enroll-button {
   /* Add styles for the enroll button */
+<<<<<<< HEAD
+=======
+  border: none;
+  border-radius: 30px;
+  padding: 20px 40px;
+  font-size: 1.2rem;
+  background-color: #00FF9D;
+>>>>>>> d94d9e3 (manas final design)
 }
 
 .enroll-button:hover {
@@ -63,16 +136,41 @@ body {
 /* Highlights section styles */
 .highlights {
   /* Add styles for the highlights section */
+<<<<<<< HEAD
+=======
+  background-color: #1A1A1A;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  padding: 40px 10%;
+>>>>>>> d94d9e3 (manas final design)
 }
 
 .highlight-card {
   /* Add styles for each highlight card */
+<<<<<<< HEAD
+=======
+  background: #2A2A2A;
+  text-align: center;
+  padding: 20px;
+  width: 20%;
+  border-radius: 20px;
+
+>>>>>>> d94d9e3 (manas final design)
 }
 
 .highlight-card h3 {
   /* Add styles for highlight card headings */
+<<<<<<< HEAD
+=======
+  color: #00FF9D;
+>>>>>>> d94d9e3 (manas final design)
 }
 
 .highlight-card p {
   /* Add styles for highlight card paragraphs */
+<<<<<<< HEAD
+=======
+  color: #ffff;
+>>>>>>> d94d9e3 (manas final design)
 }

@@ -9,23 +9,59 @@
 body {
   font-family: "Arial", sans-serif;
   line-height: 1.6;
+<<<<<<< HEAD
+=======
+  background: url("./assets/chaigym.png") no-repeat center center/cover;
+  
+  object-fit: scale-down;
+>>>>>>> d94d9e3 (manas final design)
 }
 
 /* Navbar styles */
 .navbar {
   /* Add styles for navbar */
+<<<<<<< HEAD
+=======
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #333333;
+  padding: 20px 80px;
+  
+  
+  
+>>>>>>> d94d9e3 (manas final design)
 }
 
 .logo {
   /* Add styles for the logo */
+<<<<<<< HEAD
+=======
+  display: flex;
+  align-items: center;
+  color: #fff;
+  font-weight: bolder;
+>>>>>>> d94d9e3 (manas final design)
 }
 
 .logo img {
   /* Add styles for logo image */
+<<<<<<< HEAD
+=======
+  border-radius: 30px;
+  margin: 0 10px;
+>>>>>>> d94d9e3 (manas final design)
 }
 
 .nav-links a {
   /* Add styles for nav links */
+<<<<<<< HEAD
+=======
+  padding: 0 10px;
+  text-decoration: none;
+  color: #fff;
+  
+>>>>>>> d94d9e3 (manas final design)
 }
 
 .nav-links a:hover {
@@ -35,6 +71,20 @@ body {
 /* Hero section styles */
 .hero {
   /* Add styles for hero section */
+<<<<<<< HEAD
+=======
+  /* background-image: url(./assets/chaigym.png); */
+  text-align: center;
+  padding: 50px;
+  /* background: aquamarine; */
+  padding-bottom: 80px;
+  
+  color: #fff;
+  background-color: #000000bd;
+  min-height: 90vh;
+
+  
+>>>>>>> d94d9e3 (manas final design)
 }
 
 .hero-content {
@@ -43,14 +93,31 @@ body {
 
 .hero-content h1 {
   /* Add styles for hero heading */
+<<<<<<< HEAD
+=======
+  font-size: 3rem;
+>>>>>>> d94d9e3 (manas final design)
 }
 
 .hero-content p {
   /* Add styles for hero paragraph */
+<<<<<<< HEAD
+=======
+  padding: 20px 0;
+>>>>>>> d94d9e3 (manas final design)
 }
 
 .cta-button {
   /* Add styles for CTA button */
+<<<<<<< HEAD
+=======
+  font-size: 1.5rem;
+  padding: 15px 30px;
+  border-radius: 20px;
+  background-color: #FF7902;
+  border: none;
+
+>>>>>>> d94d9e3 (manas final design)
 }
 
 .cta-button:hover {
@@ -60,14 +127,41 @@ body {
 /* Features section styles */
 .features {
   /* Add styles for features section */
+<<<<<<< HEAD
+=======
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 90px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #000;
+  padding: 30px 50px;
+  border-radius: 20px;
+>>>>>>> d94d9e3 (manas final design)
 }
 
 .feature {
   /* Add styles for each feature block */
+<<<<<<< HEAD
+=======
+  background-color: none;
+  border: 2px solid;
+  border-color: #FF7902;
+  margin: 10px 20px;
+  border-radius: 20px;
+  padding: 20px;
+
+
+>>>>>>> d94d9e3 (manas final design)
 }
 
 .feature h3 {
   /* Add styles for feature heading */
+<<<<<<< HEAD
+=======
+  color: #FF7902;
+>>>>>>> d94d9e3 (manas final design)
 }
 
 .feature p {
